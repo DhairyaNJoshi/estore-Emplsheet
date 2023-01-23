@@ -6,6 +6,7 @@ import MainComponent from './Components/MainComponent';
 
 function App() {
   return (
+    //Some comments are made to update these cheanges to repository!
     <div className='App'>
         <TopNav/>
         <CatNav/>
